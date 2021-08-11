@@ -1,2 +1,2 @@
 # HW №4 Ansible
-Screenshots of project deployed due to AWX
+Screenshots of project deployed through the use of AWX
